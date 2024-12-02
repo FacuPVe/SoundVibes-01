@@ -1,0 +1,18 @@
+{
+    "users": [
+        {
+            "id": "6749ef632323f",
+            "name": "admin",
+            "email": "admin@soundvibes.com",
+            "password": "$2y$10$yMEJHERqaWCe3w\/VotS9SOTgqiszArlkAooPplNvu5Vjb.No4wEB2",
+            "role": "admin"
+        },
+        {
+            "id": "6749f1cfeb42b",
+            "name": "user",
+            "email": "user@gmail.com",
+            "password": "$2y$10$SNX4tK.BpFumTrPCkL1CnudeH6KSQr.fmJ.mwX16wqhZnNg9zXmrm",
+            "role": "user"
+        }
+    ]
+}
